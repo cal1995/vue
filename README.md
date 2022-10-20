@@ -1,2 +1,2 @@
-# A.I
+# vue
 the first project
